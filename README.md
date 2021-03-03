@@ -1,8 +1,4 @@
 
-<h1 align="center">
-    <img  src="https://xpcorp.gama.academy/assets/logo-nav-black-478b995c681064a54339fa14e4885288162d2cb9c6a8ddca326315622f0a25cf.svg" width="400px" height="150" />
-</h1>
-
 <h3 align="center">
   Desafio: Página de Notícias do COVID-19
 </h3>
